@@ -8,7 +8,7 @@ I am currently looking to explore the careers of Software Engineering, and Data 
 
 * 🌍  I'm based in Dallas Forth Worth Area
 * 🖥️  See my portfolio at [Devpost](http://devpost.com/rygielcorpuz?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-* 🧠  I'm learning Machine Learning Models
+* 🧠  I'm learning Machine Learning and Computational Methods for Data Scientists
 * 🚀  I'm currently working on [TBA]
 
 <a href="https://www.github.com/rygielcorpuz" target="_blank" rel="noreferrer"><img
