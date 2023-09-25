@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Computer Science Student
 ---------------------------------
 
-I am looking to explore the careers of Software Engineering, and Data Science specifically in areas Machine Learning and AI
+I am currently looking to explore the careers of Software Engineering, and Data Science specifically in areas of Machine Learning and AI
 
 * 🌍  I'm based in Dallas Forth Worth Area
 * 🖥️  See my portfolio at [Devpost](http://devpost.com/rygielcorpuz?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
