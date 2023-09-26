@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rygiel Corpuz
 =====================================================================================================================================
 
-Aspiring Computer Science Student
+Aspiring Data Scientist and Software Engineer
 ---------------------------------
 
 I am currently looking to explore the careers of Software Engineering, and Data Science specifically in areas of Machine Learning and AI
